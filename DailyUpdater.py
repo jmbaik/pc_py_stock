@@ -7,5 +7,5 @@ items = MqItemsUpdate()
 items.merge_krx_items()
 codes = items.codes
 '''
-items.execute_daily('2021-01-01')
+items.execute_daily('2021-02-01')
 
